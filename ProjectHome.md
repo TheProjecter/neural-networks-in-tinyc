@@ -1,0 +1,1 @@
+We are trying to code high performance neural network in TinyC. Perhaps later on we will also try to offer <a href='http://binaryoptionsdemoaccounts.org/'>Binary Options Demo Account</a>. There is also a plan to make available <a href='http://binaryoptionsdemoaccounts.org/'>Binary Options Demo</a>.
